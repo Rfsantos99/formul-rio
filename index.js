@@ -1,4 +1,6 @@
-const estados = [
+//modelo que o back end usa
+const
+estados = [
     { value: 'AC', nome: 'Acre' },
     { value: 'AL', nome: 'Alagoas' },
     { value: 'AP', nome: 'Amapá' },
